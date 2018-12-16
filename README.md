@@ -1,4 +1,4 @@
-# sidney.francois.sd.ufg
+# Projetos de Sistemas Distribuídos
 
 ## Primeira apresentação
 #### Grupo: Sidney François Villalba Mendoza
